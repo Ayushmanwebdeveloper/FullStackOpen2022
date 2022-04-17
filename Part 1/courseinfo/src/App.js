@@ -6,8 +6,9 @@ const Header = (props) => {
   )
 }
 //Made & Submitted by Ayushman Tripathi
+//I've made This Commented Content Component for exercise 1.1 & for exercise 1.2 Content Component is present below this commented component.
 
-// const Content = (props) => {
+// const Content = (props) => {                                                
 //  return (
 //     <>
 //      <p>
